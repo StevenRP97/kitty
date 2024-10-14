@@ -1,4 +1,6 @@
 # BEGIN_KITTY_THEME
-# Terafox
 include current-theme.conf
-# END_KITTY_THEME
+
+# Keybindings
+map ctrl+enter send_text all nvim\n
+
